@@ -1,0 +1,21 @@
+# ninja log v6
+1	87	1741600638555701181	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	e067949d3154f1c9
+1	87	1741600638555701181	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	e067949d3154f1c9
+87	7155	1741600645623092952	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	a25a47cd9a9c2ec7
+87	7155	1741600645623092952	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	a25a47cd9a9c2ec7
+7156	7298	1741600645625637904	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	8d008ab17c3f01cd
+7156	7298	1741600645625637904	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	8d008ab17c3f01cd
+7298	7387	1741600645856082913	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	46a89ed4b6eff193
+7298	7387	1741600645856082913	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	46a89ed4b6eff193
+7387	7468	1741600645936613030	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	577d024116c1888a
+7387	7468	1741600645936613030	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	577d024116c1888a
+7468	7561	1741600646029592414	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	f7bdee88513d9a45
+7468	7561	1741600646029592414	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	f7bdee88513d9a45
+7561	7668	1741600646136465862	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	4d6f241df0035b59
+7561	7668	1741600646136465862	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	4d6f241df0035b59
+7668	7762	1741600646231090736	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	773d533bb2654518
+7668	7762	1741600646231090736	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	773d533bb2654518
+7762	7886	1741600646354679075	CMakeFiles/sfml-populate-complete	a68672d78c51c67a
+7762	7886	1741600646354679075	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a68672d78c51c67a
+7762	7886	1741600646354679075	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	a68672d78c51c67a
+7762	7886	1741600646354679075	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a68672d78c51c67a

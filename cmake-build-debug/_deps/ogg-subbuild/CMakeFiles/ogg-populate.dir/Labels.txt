@@ -1,0 +1,14 @@
+# Target labels
+ ogg-populate
+# Source files and their labels
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule

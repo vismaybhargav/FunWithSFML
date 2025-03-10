@@ -1,0 +1,21 @@
+# ninja log v6
+1	103	1741600676792120506	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	90f43cefe65f9d14
+1	103	1741600676792120506	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	90f43cefe65f9d14
+103	2718	1741600679406506812	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	fd59a76234d0e79
+103	2718	1741600679406506812	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	fd59a76234d0e79
+2718	2916	1741600679408776884	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	51bfb63825ea4091
+2718	2916	1741600679408776884	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	51bfb63825ea4091
+2916	3027	1741600679716462671	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	dcf188ade62617da
+2916	3027	1741600679716462671	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	dcf188ade62617da
+3027	3146	1741600679834596876	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	8850a157192f9be4
+3027	3146	1741600679834596876	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	8850a157192f9be4
+3146	3251	1741600679940901480	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	5cbed372a7f395e3
+3146	3251	1741600679940901480	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	5cbed372a7f395e3
+3252	3353	1741600680042141275	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	ceaa06e7e792c3e3
+3252	3353	1741600680042141275	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	ceaa06e7e792c3e3
+3353	3452	1741600680141728535	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	e4b9c99c6333f05e
+3353	3452	1741600680141728535	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	e4b9c99c6333f05e
+3452	3584	1741600680273866608	CMakeFiles/vorbis-populate-complete	284f4a4dd8c99237
+3452	3584	1741600680273866608	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	284f4a4dd8c99237
+3452	3584	1741600680273866608	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	284f4a4dd8c99237
+3452	3584	1741600680273866608	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	284f4a4dd8c99237

@@ -1,0 +1,21 @@
+# ninja log v6
+0	100	1741600649207266127	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	852a96f26c3c3efd
+0	100	1741600649207266127	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	852a96f26c3c3efd
+101	8396	1741600657502451764	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	f8fa1abdbcc7b05d
+101	8396	1741600657502451764	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	f8fa1abdbcc7b05d
+8396	8578	1741600657504260404	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	5dacb12eeed6cc9
+8396	8578	1741600657504260404	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	5dacb12eeed6cc9
+8579	8682	1741600657788857467	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	5679c3c1f6b0c3d6
+8579	8682	1741600657788857467	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	5679c3c1f6b0c3d6
+8682	8787	1741600657893617952	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	d71fd3c46363f806
+8682	8787	1741600657893617952	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	d71fd3c46363f806
+8787	8899	1741600658005279496	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	4af58390b1c389d1
+8787	8899	1741600658005279496	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	4af58390b1c389d1
+8899	9005	1741600658112004831	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	137dd671502a423e
+8899	9005	1741600658112004831	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	137dd671502a423e
+9005	9106	1741600658212889891	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	f298707fa9bbf56b
+9005	9106	1741600658212889891	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	f298707fa9bbf56b
+9106	9244	1741600658350827770	CMakeFiles/freetype-populate-complete	891a8f8cd5eb2047
+9106	9244	1741600658350827770	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	891a8f8cd5eb2047
+9106	9244	1741600658350827770	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	891a8f8cd5eb2047
+9106	9244	1741600658350827770	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	891a8f8cd5eb2047

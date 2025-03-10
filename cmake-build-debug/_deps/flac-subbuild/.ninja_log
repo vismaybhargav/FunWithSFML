@@ -1,0 +1,21 @@
+# ninja log v6
+0	93	1741600666892251670	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	5f1eb3a3837ab6e
+0	93	1741600666892251670	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	5f1eb3a3837ab6e
+93	2014	1741600668813958298	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	1e5e790912a012e7
+93	2014	1741600668813958298	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	1e5e790912a012e7
+2014	2169	1741600668815037978	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	f7b4274e4a551ddb
+2014	2169	1741600668815037978	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	f7b4274e4a551ddb
+2169	2262	1741600669061815447	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	bdc1ebbc23467ad2
+2169	2262	1741600669061815447	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	bdc1ebbc23467ad2
+2262	2355	1741600669154680859	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	dce83763794de696
+2262	2355	1741600669154680859	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	dce83763794de696
+2355	2455	1741600669254399590	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	f93b84500471b730
+2355	2455	1741600669254399590	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	f93b84500471b730
+2455	2558	1741600669357403691	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	fff01d9f6ae77774
+2455	2558	1741600669357403691	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	fff01d9f6ae77774
+2558	2654	1741600669453299748	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	adcbbfe9440aaab5
+2558	2654	1741600669453299748	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	adcbbfe9440aaab5
+2654	2788	1741600669587717684	CMakeFiles/flac-populate-complete	758a51c6a0cb0689
+2654	2788	1741600669587717684	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	758a51c6a0cb0689
+2654	2788	1741600669587717684	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	758a51c6a0cb0689
+2654	2788	1741600669587717684	/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	758a51c6a0cb0689

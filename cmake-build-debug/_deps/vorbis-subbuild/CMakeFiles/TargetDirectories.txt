@@ -1,0 +1,3 @@
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.dir
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/edit_cache.dir
+/Users/vismayb/Projects/FunWithSFML/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/rebuild_cache.dir
